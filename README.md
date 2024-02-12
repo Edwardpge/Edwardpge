@@ -10,10 +10,6 @@ Throughout my career, I've specialized in building scalable applications using C
 
 I thrive in the realm of internet infrastructure, where I architect scalable systems and implement monitoring solutions to optimize performance. With a deep understanding of firewalls and cybersecurity, I ensure the security and resilience of applications across various domains.
 
-📈 Current Focus:
-
-Currently, I'm channeling my energies towards [specific projects or areas of interest], where I'm tackling exciting developments and overcoming unique challenges in the world of software development.
-
 📫 Let's Connect:
 
 I'm always eager to collaborate, exchange ideas, and engage in meaningful discussions. Explore my repositories on GitHub to witness my coding journey, and don't hesitate to reach out—I'm just a message away!
